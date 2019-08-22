@@ -79,10 +79,6 @@ a{
     max-height: 20rem;
 }
 
-.side:hover{
-    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
-    transform: scale(1.125);
-}
 
 .about{
     max-width: 26rem;
